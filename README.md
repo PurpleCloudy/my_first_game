@@ -13,7 +13,7 @@
 - [ ] increase of damage
 - [ ] increase of speed
 - [ ] rockets
-**all of this with time limit!!!
+** all of this with time limit!!!
 ## field of battle
 - [ ] background
 - [ ] generating of boosters
